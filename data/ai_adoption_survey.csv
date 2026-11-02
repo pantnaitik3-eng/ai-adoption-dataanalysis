@@ -1,0 +1,25 @@
+year,industry,company_size,employees,ai_use_rate,workflow_automation_rate,training_hours,productivity_change_pct,primary_use_case,governance_score,adoption_stage
+2022,Finance,Large,4200,18,8,6,1.8,Customer support,42,Experimenting
+2022,Healthcare,Large,3600,12,5,4,0.9,Document processing,38,Experimenting
+2022,Manufacturing,Medium,780,9,4,3,0.6,Quality inspection,35,Exploring
+2022,Retail,Small,120,14,6,2,1.1,Marketing content,28,Exploring
+2022,Technology,Large,2100,31,16,10,3.8,Software development,55,Scaling
+2022,Professional Services,Medium,440,24,11,8,2.7,Research and analysis,48,Experimenting
+2023,Finance,Large,4200,29,15,12,3.4,Fraud detection,58,Scaling
+2023,Healthcare,Large,3600,22,10,9,2.0,Document processing,53,Experimenting
+2023,Manufacturing,Medium,780,19,9,7,1.7,Quality inspection,49,Experimenting
+2023,Retail,Small,120,26,12,5,2.1,Marketing content,40,Experimenting
+2023,Technology,Large,2100,46,27,17,5.6,Software development,68,Scaling
+2023,Professional Services,Medium,440,38,20,14,4.2,Research and analysis,61,Scaling
+2024,Finance,Large,4200,43,24,19,5.1,Customer support,71,Scaling
+2024,Healthcare,Large,3600,35,18,15,3.4,Clinical summarization,67,Scaling
+2024,Manufacturing,Medium,780,31,16,12,2.8,Predictive maintenance,62,Scaling
+2024,Retail,Small,120,39,19,9,3.0,Marketing content,51,Scaling
+2024,Technology,Large,2100,63,41,24,7.4,Software development,79,Scaled
+2024,Professional Services,Medium,440,54,31,21,6.2,Research and analysis,74,Scaled
+2025,Finance,Large,4200,58,35,26,6.8,Fraud detection,82,Scaled
+2025,Healthcare,Large,3600,48,27,22,4.9,Clinical summarization,78,Scaled
+2025,Manufacturing,Medium,780,44,25,18,4.1,Predictive maintenance,73,Scaled
+2025,Retail,Small,120,51,28,14,4.0,Inventory planning,64,Scaled
+2025,Technology,Large,2100,78,57,31,9.1,Software development,89,Scaled
+2025,Professional Services,Medium,440,69,41,25,7.6,Research and analysis,86,Scaled
